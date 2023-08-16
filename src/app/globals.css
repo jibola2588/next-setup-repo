@@ -5,6 +5,9 @@
 .wrapper{
   height: 100vh;
 }
+.top{
+  height: 70px;
+}
 .bottom{
   min-height: calc(100vh - 70px);
   display:grid;
